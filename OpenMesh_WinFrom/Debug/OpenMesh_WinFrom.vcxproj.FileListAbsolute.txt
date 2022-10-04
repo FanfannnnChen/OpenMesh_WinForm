@@ -1,0 +1,4 @@
+C:\Users\PC14\Desktop\OpenMesh_WinFrom\OpenMesh_WinFrom\Debug\OpenMesh_WinFrom.vcxproj.AssemblyReference.cache
+C:\Users\PC14\Desktop\OpenMesh_WinFrom\OpenMesh_WinFrom\Debug\OpenMesh_WinFrom.Form1.resources
+C:\Users\PC14\Desktop\OpenMesh_WinFrom\OpenMesh_WinFrom\Debug\OpenMesh_WinFrom.vcxproj.GenerateResource.cache
+C:\Users\PC14\Desktop\OpenMesh_WinFrom\OpenMesh_WinFrom\Debug\OpenMesh_WinFrom.vcxproj.CopyComplete
