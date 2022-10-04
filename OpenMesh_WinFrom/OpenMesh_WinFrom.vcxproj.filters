@@ -29,6 +29,9 @@
     <ClInclude Include="Form1.h">
       <Filter>Header</Filter>
     </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Header</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CppCLR_WinformsProjekt.cpp">
